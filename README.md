@@ -3,4 +3,4 @@
 
 ## Main Menu 
 
-[Great White Shark](GreatWhite.md)
+- [Great White Shark](GreatWhite.md)
