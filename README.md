@@ -3,4 +3,4 @@
 
 ## Main Menu 
 
-[Great White Shark](https://github.com/Tyler-olznoi/Markdown-Pages-Olznoi/GreatWhite.md)
+[Great White Shark](GreatWhite.md)
